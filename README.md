@@ -1,4 +1,4 @@
-# lucidprint
+# visionprint
 A small Python utility library offering conditional styles for CLIs.
 
 ## Features
@@ -13,7 +13,7 @@ pip install lucidprint
 
 ## Example
 ```python
-from lucidprint import success, info, note, warn, error
+from visionprint import success, info, note, warn, error
 
 success("Success") # Green, bold, italic
 info("Info")       # Blue, italic
