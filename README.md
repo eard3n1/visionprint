@@ -8,7 +8,7 @@ A small Python utility library offering conditional styles for CLIs.
 
 ## Installation
 ```bash
-pip install lucidprint
+pip install visionprint
 ```
 
 ## Example
