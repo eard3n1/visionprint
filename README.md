@@ -29,5 +29,8 @@ error("Error")     # Red, underline
 - <code>warn(msg: str)</code><br>Yellow, bold, underline<br><br>
 - <code>error(msg: str)</code><br>Red, underline<br><br>
 
+## Note
+Work in progress...
+
 ## License
 MIT License
