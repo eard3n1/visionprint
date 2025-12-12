@@ -1,20 +1,15 @@
 class Colors:
-    RED         = "\033[91m"
-    LIGHT_RED   = "\033[91m"
-    DARK_RED    = "\033[31m"
+    BLACK   = "\033[30m"
+    RED     = "\033[31m"
+    GREEN   = "\033[32m"
+    YELLOW  = "\033[33m"
+    BLUE    = "\033[34m"
+    MAGENTA = "\033[35m"
+    CYAN    = "\033[36m"
+    WHITE   = "\033[37m"
+    GREY    = "\033[90m"
 
-    GREEN       = "\033[92m"
-    LIGHT_GREEN = "\033[92m"
-    DARK_GREEN  = "\033[32m"
-
-    BLUE        = "\033[94m"
-    LIGHT_BLUE  = "\033[94m"
-    DARK_BLUE   = "\033[34m"
-
-    WHITE       = "\033[97m"
-    GREY        = "\033[90m"
-
-    RESET       = "\033[0m"
+    RESET   = "\033[0m"
 
 class Styles:  
     RESET     = "\033[0m"
